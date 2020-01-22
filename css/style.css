@@ -1,9 +1,9 @@
 /* Stylesheet by Griffin Rock, 2020 */
 <style>
-    mydiv {
-        background-color: gold;
-        width: 100%;
-        margin: 0 auto;
-        height: 160px;
+        #mydiv {
+            background-color: orange;
+            width: 100%;
+            margin: 0 auto;
+            height: 200px;
         }
 </style>
